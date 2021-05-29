@@ -3,7 +3,7 @@ package model.dto;
 import java.time.LocalDate;
 
 //model dos objetos real
-public class SocketDTO {//conceito pra ter uma interação com o controlador
+public class StockDTO {//conceito pra ter uma interação com o controlador
 	
 	private Long id; //id é feito com long pq vai ser um numero
 	private String name;
